@@ -1,0 +1,262 @@
+@font-face {
+	font-family: American Typewriter Condensed Bold;
+	src: url(../fonts/AmericanTypewriterCondensedBold.eot?#iefix) format("embedded-opentype"), url(../fonts/AmericanTypewriterCondensedBold.ttf) format("truetype");
+}
+@font-face {
+	font-family: American Typewriter Medium;
+	src: url(../fonts/AmericanTypewriterMedium.eot?#iefix) format("embedded-opentype"), url(../fonts/AmericanTypewriterMedium.ttf) format("truetype");
+}
+@font-face {
+	font-family: Amiri;
+	src: url(../fonts/Amiri.eot?#iefix) format("embedded-opentype"), url(../fonts/Amiri.ttf) format("truetype");
+}
+@font-face {
+	font-family: Courier Bold;
+	src: url(../fonts/CourierBold.eot?#iefix) format("embedded-opentype"), url(../fonts/CourierBold.ttf) format("truetype");
+}
+@font-face {
+	font-family: Droid;
+	src: url(../fonts/Droid.eot?#iefix) format("embedded-opentype"), url(../fonts/Droid.ttf) format("truetype");
+}
+@font-face {
+	font-family: Droid Kufi;
+	src: url(../fonts/DroidKufi.eot?#iefix) format("embedded-opentype"), url(../fonts/DroidKufi.ttf) format("truetype");
+}
+@font-face {
+	font-family: Futura;
+	src: url(../fonts/Futura.eot?#iefix) format("embedded-opentype"), url(../fonts/Futura.ttf) format("truetype");
+}
+@font-face {
+	font-family: Gill Sans;
+	src: url(../fonts/GillSans.eot?#iefix) format("embedded-opentype"), url(../fonts/GillSans.ttf) format("truetype");
+}
+@font-face {
+	font-family: Gill Sans Bold;
+	src: url(../fonts/GillSansBold.eot?#iefix) format("embedded-opentype"), url(../fonts/GillSansBold.ttf) format("truetype");
+}
+@font-face {
+	font-family: Helvetica neue Condensed Bold;
+	src: url(../fonts/HelveticaNeueCondensedBold.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaNeueCondensedBold.ttf) format("truetype");
+}
+@font-face {
+	font-family: Helvetica neue Light;
+	src: url(../fonts/HelveticaNeueLight.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaNeueLight.ttf) format("truetype");
+}
+@font-face {
+	font-family: Helvetica neue Ultra Light;
+	src: url(../fonts/HelveticaNeueUltraLight.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaNeueUltraLight.ttf) format("truetype");
+}
+@font-face {
+	font-family: Helvetica neue Medium;
+	src: url(../fonts/HelveticaNeueMedium.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaNeueMedium.ttf) format("truetype");
+}
+@font-face {
+	font-family: Helvetica neue;
+	src: url(../fonts/HelveticaNeue.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaNeue.ttf) format("truetype");
+}
+@font-face {
+	font-family: Hoefler Bold Italic;
+	src: url(../fonts/HoeflerBoldItalic.eot?#iefix) format("embedded-opentype"), url(../fonts/HoeflerBoldItalic.ttf) format("truetype");
+}
+@font-face {
+	font-family: Hoefler;
+	src: url(../fonts/Hoefler.eot?#iefix) format("embedded-opentype"), url(../fonts/Hoefler.ttf) format("truetype");
+}
+@font-face {
+	font-family: Segoe;
+	src: url(../fonts/Segoe.eot?#iefix) format("embedded-opentype"), url(../fonts/Segoe.ttf) format("truetype");
+}
+@font-face {
+	font-family: Marathi Vakra;
+	src: url(../fonts/MarathiVakra.eot?#iefix) format("embedded-opentype"), url(../fonts/MarathiVakra.ttf) format("truetype");
+}
+@font-face {
+	font-family: Noto Sans Hebrew;
+	src: url(../fonts/NotoSansHebrew.eot?#iefix) format("embedded-opentype"), url(../fonts/NotoSansHebrew.ttf) format("truetype");
+}
+@font-face {
+	font-family: gbbackoffice-v3-icon;
+	src: url(../fonts/gbbackoffice-v3-icon.eot?#iefix-r97iuv) format("embedded-opentype"), url(../fonts/gbbackoffice-v3-icon.woff2?-r97iuv) format("woff2"), url(../fonts/gbbackoffice-v3-icon.ttf?-r97iuv) format("truetype"), url(../fonts/gbbackoffice-v3-icon.woff?-r97iuv) format("woff"), url(../fonts/gbbackoffice-v3-icon.svg?-r97iuv#gbbackoffice-v3-icon) format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+.gbbackoffice-v3-icon {
+	text-transform: none; line-height: 1; font-family: "gbbackoffice-v3-icon" !important; font-style: normal; font-variant: normal; font-weight: normal; speak: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+}
+.icon-picto-services-squarespace::before {
+	content: "\e624";
+}
+.icon-picto-services-facebookphoto::before {
+	content: "\e626";
+}
+.icon-picto-services-gigatools::before {
+	content: "\e623";
+}
+.icon-picto-services-etsy::before {
+	content: "\e600";
+}
+.icon-picto-services-shopify::before {
+	content: "\e601";
+}
+.icon-picto-services-kml::before {
+	content: "\e602";
+}
+.icon-picto-services-songkick::before {
+	content: "\e603";
+}
+.icon-picto-services-amazon::before {
+	content: "\e604";
+}
+.icon-picto-services-mcms::before {
+	content: "\e605";
+}
+.icon-picto-services-mcmsvideo::before {
+	content: "\e606";
+}
+.icon-picto-services-mcmsarticle::before {
+	content: "\e607";
+}
+.icon-picto-services-mcmsevent::before {
+	content: "\e608";
+}
+.icon-picto-services-mcmspodcast::before {
+	content: "\e609";
+}
+.icon-picto-services-mcmsphoto::before {
+	content: "\e60a";
+}
+.icon-picto-services-fhpx::before {
+	content: "\e60b";
+}
+.icon-picto-services-bliptv::before {
+	content: "\e60c";
+}
+.icon-picto-services-soundcloud::before {
+	content: "\e60d";
+}
+.icon-picto-services-wm::before {
+	content: "\e60e";
+}
+.icon-picto-services-wmarticle::before {
+	content: "\e60f";
+}
+.icon-picto-services-wmevent::before {
+	content: "\e610";
+}
+.icon-picto-services-wmpodcast::before {
+	content: "\e611";
+}
+.icon-picto-services-wmphoto::before {
+	content: "\e612";
+}
+.icon-picto-services-wmvideo::before {
+	content: "\e613";
+}
+.icon-picto-services-googlecalendar::before {
+	content: "\e614";
+}
+.icon-picto-services-facebookevents::before {
+	content: "\e615";
+}
+.icon-picto-services-vcalendar::before {
+	content: "\e616";
+}
+.icon-picto-services-dailymotion::before {
+	content: "\e617";
+}
+.icon-picto-services-videopodcast::before {
+	content: "\e618";
+}
+.icon-picto-services-podcast::before {
+	content: "\e619";
+}
+.icon-picto-services-pinterest::before {
+	content: "\e61a";
+}
+.icon-picto-services-picasa::before {
+	content: "\e61b";
+}
+.icon-picto-services-ooyala::before {
+	content: "\e61c";
+}
+.icon-picto-services-wordpress::before {
+	content: "\e61d";
+}
+.icon-picto-services-wordpressdotcom::before {
+	content: "\e61e";
+}
+.icon-picto-services-typepad::before {
+	content: "\e61f";
+}
+.icon-picto-services-drupal::before {
+	content: "\e620";
+}
+.icon-picto-services-blogger::before {
+	content: "\e621";
+}
+.icon-picto-push-reward-reminder::before {
+	content: "\e900";
+}
+.icon-picto-push-reward-welcome::before {
+	content: "\e901";
+}
+.icon-picto-push-action::before {
+	content: "\e622";
+}
+.icon-picto-push-anytime::before {
+	content: "\e625";
+}
+.icon-picto-push-devices::before {
+	content: "\e627";
+}
+.icon-picto-push-deweling::before {
+	content: "\e628";
+}
+.icon-picto-push-entering::before {
+	content: "\e629";
+}
+.icon-picto-push-geofence::before {
+	content: "\e62a";
+}
+.icon-picto-push-ibeacon::before {
+	content: "\e62b";
+}
+.icon-picto-push-openinghours::before {
+	content: "\e62c";
+}
+.icon-picto-push-sortering::before {
+	content: "\e62d";
+}
+.icon-picto-push-timespans::before {
+	content: "\e62e";
+}
+.icon-picto-push-users::before {
+	content: "\e62f";
+}
+.icon-business::before {
+	content: "\e902";
+}
+.icon-stats::before {
+	content: "\e630";
+}
+.icon-loading1::before {
+	content: "\e000";
+}
+.icon-loading2::before {
+	content: "\e001";
+}
+.icon-loading3::before {
+	content: "\e002";
+}
+.icon-loading4::before {
+	content: "\e003";
+}
+.icon-loading5::before {
+	content: "\e004";
+}
+.icon-loading6::before {
+	content: "\e005";
+}
+.icon-loading7::before {
+	content: "\e006";
+}
